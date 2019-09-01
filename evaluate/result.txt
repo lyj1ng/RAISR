@@ -1,0 +1,98 @@
+evaluate result for : a_063
+PSNR of raisr: 34.24410286681188
+PSNR of bilinear: 30.12187212160005
+SSIM of raisr: 0.9567058677553537
+SSIM of bilinear: 0.9212219432046489
+
+evaluate result for : a_064
+PSNR of raisr: 24.139386081683373
+PSNR of bilinear: 22.432007414712203
+SSIM of raisr: 0.8052282879455556
+SSIM of bilinear: 0.7160306035329634
+
+evaluate result for : a_065
+PSNR of raisr: 30.973374571116462
+PSNR of bilinear: 27.767811652281303
+SSIM of raisr: 0.9241307677038135
+SSIM of bilinear: 0.8668141197572888
+
+evaluate result for : a_075
+PSNR of raisr: 30.365324791232155
+PSNR of bilinear: 27.175440130010276
+SSIM of raisr: 0.9283457958775684
+SSIM of bilinear: 0.8787380385814825
+
+evaluate result for : a_076
+PSNR of raisr: 24.69297731895001
+PSNR of bilinear: 24.1607886213449
+SSIM of raisr: 0.8100006256600134
+SSIM of bilinear: 0.7522809261605811
+
+evaluate result for : a_077
+PSNR of raisr: 27.539799830541966
+PSNR of bilinear: 25.233501913361177
+SSIM of raisr: 0.8584501138570554
+SSIM of bilinear: 0.7923395007025033
+
+evaluate result for : b1
+PSNR of raisr: 36.20573192887787
+PSNR of bilinear: 32.38878851909844
+SSIM of raisr: 0.9766388795547744
+SSIM of bilinear: 0.9630280773203397
+
+evaluate result for : hires_cat
+PSNR of raisr: 36.977725243369484
+PSNR of bilinear: 33.85566872691626
+SSIM of raisr: 0.9650145333797255
+SSIM of bilinear: 0.9507637808723254
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+evaluate result for : a_063
+PSNR of raisr: 34.24410286681188
+PSNR of bilinear: 30.12187212160005
+SSIM of raisr: 0.9567058677553537
+SSIM of bilinear: 0.9212219432046489
+
+evaluate result for : a_064
+PSNR of raisr: 24.139386081683373
+PSNR of bilinear: 22.432007414712203
+SSIM of raisr: 0.8052282879455556
+SSIM of bilinear: 0.7160306035329634
+
+evaluate result for : a_065
+PSNR of raisr: 30.973374571116462
+PSNR of bilinear: 27.767811652281303
+SSIM of raisr: 0.9241307677038135
+SSIM of bilinear: 0.8668141197572888
+
+evaluate result for : a_075
+PSNR of raisr: 30.365324791232155
+PSNR of bilinear: 27.175440130010276
+SSIM of raisr: 0.9283457958775684
+SSIM of bilinear: 0.8787380385814825
+
+evaluate result for : a_076
+PSNR of raisr: 24.69297731895001
+PSNR of bilinear: 24.1607886213449
+SSIM of raisr: 0.8100006256600134
+SSIM of bilinear: 0.7522809261605811
+
+evaluate result for : a_077
+PSNR of raisr: 27.539799830541966
+PSNR of bilinear: 25.233501913361177
+SSIM of raisr: 0.8584501138570554
+SSIM of bilinear: 0.7923395007025033
+
+evaluate result for : b1
+PSNR of raisr: 36.20573192887787
+PSNR of bilinear: 32.38878851909844
+SSIM of raisr: 0.9766388795547744
+SSIM of bilinear: 0.9630280773203397
+
+evaluate result for : hires_cat
+PSNR of raisr: 36.977725243369484
+PSNR of bilinear: 33.85566872691626
+SSIM of raisr: 0.9650145333797255
+SSIM of bilinear: 0.9507637808723254
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
